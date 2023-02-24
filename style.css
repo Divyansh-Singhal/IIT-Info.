@@ -1,0 +1,96 @@
+#info{
+    padding-top: 14%;
+    padding-left:8%;
+    font-family: 'DM Sans', sans-serif;
+}
+#desc{
+    font-size: 240%;
+    font-weight: 500;
+  }
+#carousel{
+    padding-top: 10%;
+    padding-right:5%;
+}
+#footer{
+    margin-top: 10%;
+    display: flex;
+    column-gap: 3%;
+    justify-content: center;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+#footer a{
+    color: #000;
+    text-decoration: none;
+}
+#insdesc{
+    margin-top: 10%;
+    margin-bottom: 6%;
+    text-align: center;
+}
+#insdesc h1{
+    font-size: 300%;
+    font-weight: 500;
+}
+#cards{
+    padding: 3%;
+    padding-top: 5%;
+}
+#ranksrc{
+    display: flex;
+    justify-content: center;
+}
+#ranksrc input{
+    width:15%;
+}
+#cardsload1{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom:3%;
+    display:none;
+}
+#load1div{
+    display: flex;
+    justify-content: center;
+
+}
+#load1{
+    padding: 2%;
+    width: 200%;
+    height: 200%;
+}
+#load2div{
+    display: none;;
+    justify-content: center;
+
+}
+#load2{
+    padding: 2%;
+    width: 200%;
+    height: 200%;
+}
+#cardsload2{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom:3%;
+    display:none;
+}
+#cardsload3{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom:3%;
+    display:none;
+}
+#load3div{
+    display: none;
+    justify-content: center;
+
+}
+#load3{
+    padding: 2%;
+    width: 200%;
+    height: 200%;
+}
+#IITB,#IITKGP,#IITGN,#IITBBN,#IITMAD,#IITGUW,#IITIND,#IITKAN,#IITJOD,#IITHYD,#IITPAT,#IITDEL,#IITRPR,#IITMAN,#IITROR,#IITBHU,#IITJK,#IITPAL,#IITTP,#IITGOA,#IITBHI,#IITDHAR,#IITDHAN{
+    display: none;
+}
